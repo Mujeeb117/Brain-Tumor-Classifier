@@ -10,10 +10,12 @@ The Brain Tumor Classification app was developed to detect and classify brain tu
 This app is designed to streamline tumor detection, offering a robust solution with a user-friendly interface.
 
 # Installation
+
 pip install -r requirements.txt
 
 # Usage
 Once the installation is complete, launch the app by running the following command:
+
 streamlit run main.py
 
 # Conclusion
